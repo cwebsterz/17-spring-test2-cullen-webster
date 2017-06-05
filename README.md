@@ -35,3 +35,4 @@ NaN
 I used a ramda 'take' function to select the first item in the array. By passing in a number I can inform the function as to which index position to stop at and then I can pass my array in by giving the function a parameter of 'arr'. Type 'node 7.js' into terminal to see the result, and change the number passed in to see different results.
 
 ## Problem 8
+Utilized ramda 'sort' function to sort the array of numbers into order. Just throw 'node 8.js' into your terminal to see it for yourself!
