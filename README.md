@@ -36,3 +36,11 @@ I used a ramda 'take' function to select the first item in the array. By passing
 
 ## Problem 8
 Utilized ramda 'sort' function to sort the array of numbers into order. Just throw 'node 8.js' into your terminal to see it for yourself!
+
+## Problem 9
+I used ramdas 'uniq' function to remove all the duplicates form an array I created.
+
+Input: [4,5,8,9,1,6,8,2,3,5,9,1]
+Output: [4,5,8,9,1,6,2,3]
+
+## Problem 10
