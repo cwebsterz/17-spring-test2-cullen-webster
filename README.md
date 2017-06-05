@@ -47,3 +47,11 @@ Output: [4,5,8,9,1,6,2,3]
 Union'd it with ramda 'union'. Boom.
 
 ## Problem 11
+I created a function and passed in an array and then had it return an array of the key values by using the ramda 'key' function.
+
+Input: var student = {
+    name : "David Ray",
+    sclass : "VI",
+    rollno : 12 }
+
+Output: ["name","sclass","rollno"]
