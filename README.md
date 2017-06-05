@@ -44,3 +44,6 @@ Input: [4,5,8,9,1,6,8,2,3,5,9,1]
 Output: [4,5,8,9,1,6,2,3]
 
 ## Problem 10
+Union'd it with ramda 'union'. Boom.
+
+## Problem 11
