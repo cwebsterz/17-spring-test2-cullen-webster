@@ -1,12 +1,26 @@
 # 17-spring-test2-cullen-webster
 
+## Getting Started
+
+```
+git clone https://github.com/cwebsterz/17-spring-test2-cullen-webster.git
+cd 17-spring-test2-cullen-webster
+npm install
+```
+
 ## Problem 1
 The function takes the array 'colors' and utilizes the ramda 'reverse' function
-to return a new array in reverse order. To run this code just put 'node 1.js'
-into your terminal and you'll see this result:
+to return a new array in reverse order. To run this code, enter the following command within the terminal: 
 
-"[ 'purple', 'gold', 'orange', 'navy', 'blue', 'green', 'black' ]"
+  ```
+  node 1.js
+  ```
+    
+  Expected result:
 
+  ```
+  [ 'purple', 'gold', 'orange', 'navy', 'blue', 'green', 'black' ]
+  ```
 
 ## Problem 2
 The first function uses the ramda function 'toUpper' to change the letters in the array to upper-case and then the second function maps over the array to return a new one in which the letters have been transformed. To run this code just put 'node 2.js' into your terminal and you'll see this result:
