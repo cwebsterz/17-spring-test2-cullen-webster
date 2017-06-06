@@ -29,7 +29,7 @@ And the output (found by putting 'node 4.js' into the terminal):
 For this one I just made a function that selects the substring value of '0' and then it will display the characters up to whatever number you input into the call of the function.
 
 ## Problem 6
-NaN
+undefined
 
 ## Problem 7
 I used a ramda 'take' function to select the first item in the array. By passing in a number I can inform the function as to which index position to stop at and then I can pass my array in by giving the function a parameter of 'arr'. Type 'node 7.js' into terminal to see the result, and change the number passed in to see different results.
